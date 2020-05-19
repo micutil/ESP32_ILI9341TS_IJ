@@ -1,6 +1,8 @@
-#ESP32-ILI9341 Touchscreen for IchigoJam
+# ESP32-ILI9341 Touchscreen for IchigoJam
 
 IchigoJam (ファーム：1.4β20 for ILI9341）と、2.8インチ ILI9341 タッチスクリーン付きと、ESP32を使って、IchigoJamのタッチパネルをやってみました。
+
+<center><IMG SRC="resource/esp32ili9341ij.jpg" width=80%></center>
 
 ## 使うもの
 
