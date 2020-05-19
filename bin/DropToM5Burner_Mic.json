@@ -1,0 +1,13 @@
+[
+    {
+        "name": "ESP32 ILI9341TS for IchigoJam",
+        "version": "v20200519",
+        "path": "",
+        "commands": [
+			"--chip esp32 --port %port --baud %baud 
+			--before default_reset --after hard_reset write_flash -z 
+			--flash_mode dio --flash_freq 80m --flash_size detect 
+			0x10000 %PATH\\ESP32_ILI9341TS_IJ.ino.esp32.bin"
+        ]
+    }
+]
